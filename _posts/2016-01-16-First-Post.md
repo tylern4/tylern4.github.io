@@ -4,7 +4,9 @@ title:  "Hello World"
 author: Nick Tyler
 date:   2016-01-16
 tags: [python,blog]
-comments: true
+image:
+    #feature: still_alive_3840x2160.png
+    backround: still_alive_3840x2160.png
 ---
 
 
