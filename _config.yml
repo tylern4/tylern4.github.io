@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Nick Tyler's Research Site
+email: tylerns@email.sc.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Using this site as a blog for projects I'm working on
+  as well as some reasearch things.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  tylern4
+
+# Build settings
+markdown: kramdown
+permalink: pretty
