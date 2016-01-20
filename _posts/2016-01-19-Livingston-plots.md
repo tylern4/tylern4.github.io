@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Livingston Plots
-tags: [code]
+tags: [Code,Python]
 modified: 2016-01-19
 ---
 

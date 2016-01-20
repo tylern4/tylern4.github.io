@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World"
 author: Nick Tyler
 date:   2016-01-16 
-tags: [python,blog]
+tags: [Python,Blog]
 ---
 
 
