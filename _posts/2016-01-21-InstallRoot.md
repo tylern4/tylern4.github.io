@@ -8,8 +8,7 @@ image:
 share: true
 ---
 
-**ROOT**
-========
+#ROOT
 
 In this post I'll go over how to install CERN's [ROOT] data analysis framework.
 ROOT is very handy when trying to make plots and it is used by nuclear physicists, particle physicists
@@ -17,7 +16,7 @@ and even some astronomers to store, view and report data.  The installation proc
 and there are a few things that you can learn about how your operating system and programming
 in the process of installing ROOT.
 
-**Dependencies**
+##Dependencies
 
 Fist thing to do it to install ROOT is to get the proper dependencies.  Dependencies are the underlying 
 programs a computer needs in order to build new programs. One of the most important ones we will need 
@@ -40,7 +39,7 @@ To enable all the features of ROOT you can also install the optional dependencie
 
     sudo apt-get install gfortran libssl-dev libpcre3-dev xlibmesa-glu-dev libglew1.5-dev libftgl-dev libmysqlclient-dev libfftw3-dev graphviz-dev libavahi-compat-libdnssd-dev libldap2-dev python-dev libxml2-dev libkrb5-dev libgsl0-dev libqt4-dev
 
-**Downloading ROOT**
+##Downloading ROOT
 
 Once you have all the dependencies the next steps will be to download the ROOT source files and build
 them install them.  We will download ROOT from the [github] page but you can also download the source files 
@@ -72,12 +71,11 @@ Or with command line magic:
 sudo chown -R $(whoami):$(whoami) root
 ```
 
-**Building ROOT**
+##Building ROOT
 
 There are two ways to build ROOT the old way using a configure file and make, and the new method for ROOT 6 using cmake and make.
 
-- _**Old way**_
-
+###Old way
 Using the configure script is easy just go into the root directory we just downloaded and run `./configure`. After the configure
 script has run it will create a makefile which can be run to build ROOT. after the `-j` option you can change the `2` the number 
 or cores you have on your computer and make will build ROOT using all of your processing cores.
@@ -88,8 +86,7 @@ cd root
 make -j2
 ```
     
-- _**New way**_
-
+###New way
 The new way involves using another program called [cmake].  If you want to build ROOT this way you'll have to make sure cmake
 is installed and then run the following, again changing the `2` to the number of cores you have:
 
@@ -103,7 +100,7 @@ sudo make install
 As of now both of these ways will work and the only difference you will see is that cmake has a lot prettier output,
 however in future versions of ROOT the old way may not work.
 
-**Installing ROOT**
+##Installing ROOT
 
 Now we must let the computer know how to run ROOT and you can do this by using the source file.
 

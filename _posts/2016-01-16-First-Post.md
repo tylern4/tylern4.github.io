@@ -7,8 +7,8 @@ tags: [Python,Blog]
 ---
 
 
-First Post
-----------
+#First Post
+
 
 
 The first post on my new site.
