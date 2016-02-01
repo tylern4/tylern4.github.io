@@ -14,7 +14,7 @@ C++ program to do show the time left and added some little things like colors an
 
 ![countdown](/images/countdown.gif)
 
-All the code can be found on my [github] and easily built on both linux and OS X with a simple `make` command.
+All the code can be found on my [github] and easily built on both Linux and OS X with a simple `make` command.
 
 
 [github]: http://github.com/tylern4/FinalCountdown
