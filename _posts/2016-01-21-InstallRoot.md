@@ -62,13 +62,13 @@ the admin and do specific tasks. However we don't always want to be the admin wh
 change the folder permissions back to you.  You can do this with the `chown` command, replacing `username` with your user name.
 
 ```bash
-sudo chown -R username:username root 
+sudo chown -R username:groupname root 
 ```
 
 Or with command line magic:
 
 ```bash
-sudo chown -R $(whoami):$(whoami) root
+sudo chown -R $(whoami):$(id -g -n $(whoami)) root
 ```
 
 ##Building ROOT
