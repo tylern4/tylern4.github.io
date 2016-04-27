@@ -140,7 +140,7 @@ clear up the the particle identification process.
 $\Upsilon$ Energy versus $\Upsilon$ Pt 
 --------------------------------------
 
-![image](/OpenData/Upsilon/UE_Upt_L.jpg)
+![image](/OpenData/Upsilon/1.jpg)
 When first looking at the $\Upsilon$ Energy versus $\Upsilon$ Pt
 distribution one can see that there are a lot of events around the low
 energy, low momentum region. In closer instigation in this region there
@@ -148,7 +148,7 @@ seems to be two bands appearing. The first band follows an arc with a
 slope close to one while the other is a wider and shallower band
 continuing in the low $Pt \approx 5\,GeV$ region.
 
-![image](/OpenData/Upsilon/UE_Upt_L_2.jpg)
+![image](/OpenData/Upsilon/2.jpg)
 ![image](/OpenData/Upsilon/Upt.jpg)
 With higher statistics this could become interesting to use this either
 for background subtraction or to look at the properties of high
