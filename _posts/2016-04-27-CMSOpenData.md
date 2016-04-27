@@ -81,7 +81,7 @@ $Z^0$ Energy versus $Z^0$ Pt
 Another interesting distribution is the $Z^0$ Energy versus $Z^0$
 transverse momentum. This graph also shows that a large amount of the
 $Z^0$ have $Pz \approx 0$.
-![image](/OpenData/Z_stuff/ZE_Zpt_log.jpg)
+![image](/OpenData/Z_stuff/ZE_Zpt_L.jpg)
 Looking at the projection along Pt confirms this.
 ![image](/OpenData/Z_stuff/Zpt.jpg)
 Combining the results from the two investigations and looking at the
@@ -140,7 +140,7 @@ clear up the the particle identification process.
 $\Upsilon$ Energy versus $\Upsilon$ Pt 
 --------------------------------------
 
-![image](/OpenData/Upsilon/UE_Upt_log.jpg)
+![image](/OpenData/Upsilon/UE_Upt_L.jpg)
 When first looking at the $\Upsilon$ Energy versus $\Upsilon$ Pt
 distribution one can see that there are a lot of events around the low
 energy, low momentum region. In closer instigation in this region there
@@ -148,7 +148,7 @@ seems to be two bands appearing. The first band follows an arc with a
 slope close to one while the other is a wider and shallower band
 continuing in the low $Pt \approx 5\,GeV$ region.
 
-![image](/OpenData/Upsilon/UE_Upt_log_2.jpg)
+![image](/OpenData/Upsilon/UE_Upt_L_2.jpg)
 ![image](/OpenData/Upsilon/Upt.jpg)
 With higher statistics this could become interesting to use this either
 for background subtraction or to look at the properties of high
