@@ -81,7 +81,7 @@ $Z^0$ Energy versus $Z^0$ Pt
 Another interesting distribution is the $Z^0$ Energy versus $Z^0$
 transverse momentum. This graph also shows that a large amount of the
 $Z^0$ have $Pz \approx 0$.
-![image](/OpenData/Z_stuff/ZE_Zpt_L.jpg)
+![image](/OpenData/Z_stuff/ZEZptL.jpg)
 Looking at the projection along Pt confirms this.
 ![image](/OpenData/Z_stuff/Zpt.jpg)
 Combining the results from the two investigations and looking at the
