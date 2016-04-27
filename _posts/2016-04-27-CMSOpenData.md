@@ -42,11 +42,11 @@ so that $Z^0 \rightarrow  \mu^+ \mu^-$. After the initial charge cut I
 was left with roughly 2 million neutral decays. I looked at the mass
 histogram in the range above $40\,GeV$ to find the $Z^0$ peak around
 $91\,GeV$.
-![image](/OpenData/Z_stuff/Mass_histogram.pdf)
+![image](/OpenData/Z_stuff/Mass_histogram.jpg)
 I then fit a polynomial background with a Gaussian peak around $91\,GeV$
 on the data and used this to subtract away the background to find the
 $Z^0$ peak.
-![image](/OpenData/Z_stuff/Z_peak.pdf)
+![image](/OpenData/Z_stuff/Z_peak.jpg)
 I cut the data around around the mass peak and then looked at different
 energy and momentum distributions of the decaying $Z^0$.
 
@@ -64,14 +64,14 @@ more.
 $Z^0$ Energy versus $Z^0$ Pz 
 ----------------------------
 
-![image](/OpenData/Z_stuff/ZE_Zpz.pdf)
+![image](/OpenData/Z_stuff/ZE_Zpz.jpg)
 With the color map it is easy to see that most of the $Z^0$ have close
 to 0 momentum in the direction of the beam and that they are produced at
 energies close to $90\,GeV$. This is characteristic of a symmetric beam
 collider like the LHC where particles are created close to the center of
 the lab frame. By looking at the projection along the Z momentum axis
 it’s clear to see this large peak of $Pz \approx 0$.
-![image](/OpenData/Z_stuff/Zpz.pdf)
+![image](/OpenData/Z_stuff/Zpz.jpg)
 There is a large peak around 0 with a very small distribution at larger
 momentums.
 
@@ -81,9 +81,9 @@ $Z^0$ Energy versus $Z^0$ Pt
 Another interesting distribution is the $Z^0$ Energy versus $Z^0$
 transverse momentum. This graph also shows that a large amount of the
 $Z^0$ have $Pz \approx 0$.
-![image](/OpenData/Z_stuff/ZE_Zpt_log.pdf)
+![image](/OpenData/Z_stuff/ZE_Zpt_log.jpg)
 Looking at the projection along Pt confirms this.
-![image](/OpenData/Z_stuff/Zpt.pdf)
+![image](/OpenData/Z_stuff/Zpt.jpg)
 Combining the results from the two investigations and looking at the
 $Z^0$ Pz versus $Z^0$ Pt shows that most of the $Z^0$ have
 $Ptotal \approx 0$ meaning that many of the $Z^0$ are created close
@@ -93,7 +93,7 @@ leave the center of the detector region. This could be helpful in
 creating a true background subtraction to find $Z^0$ for this experiment
 by only selecting decays which come from the close to the center of the
 detector and have $Ptotal \approx 0$ within detector resolutions.
-![image](/OpenData/Z_stuff/Zpt_Zpz.pdf)
+![image](/OpenData/Z_stuff/Zpt_Zpz.jpg)
 
 $\Upsilon$ Decays 
 =================
@@ -104,16 +104,16 @@ fit a polynomial background with a Gaussian peak this time around
 $9.45\,GeV$. The $\chi^2$ for this distribution is much larger than in
 the $Z^0$ case because there are two peaks which are not initially fit
 but the Gaussian or the polynomial.
-![image](/OpenData/Upsilon/U_hist.pdf)
+![image](/OpenData/Upsilon/U_hist.jpg)
 I again subtracted the polynomial background to get the larger peak seen
 in green.
-![image](/OpenData/Upsilon/U_peak.pdf)
+![image](/OpenData/Upsilon/U_peak.jpg)
 And then after subtracting the background and the larger of the three
 peaks I tried to fit the smaller peaks but the simple Gaussian fit
 method lumped the two remaining peaks together making it hard to
 distinguish between the two.
 
-![image](/OpenData/Upsilon/Up_peak.pdf)
+![image](/OpenData/Upsilon/Up_peak.jpg)
 
 Scatter Matrix 
 --------------
@@ -126,12 +126,12 @@ and $\Upsilon$ Energy versus $\Upsilon$ Pt.
 $\Upsilon$ Energy versus $\Upsilon$ Pz 
 --------------------------------------
 
-![image](/OpenData/Upsilon/UE_Upz.pdf)
+![image](/OpenData/Upsilon/UE_Upz.jpg)
 This distribution is slightly different then the $Z^0$ distribution.
 There is a larger range in the Z momentum distribution opposed to the
 large peak around 0 for the $Z^0$. This can also be seen in the wide
 distribution seen on the Pz projection.
-![image](/OpenData/Upsilon/Upz.pdf)
+![image](/OpenData/Upsilon/Upz.jpg)
 However it is hard to tell whether this is due to something physical
 with the $\Upsilon$ production or if this is due to the background. A
 better investigation into the backgrounds in this region could help to
@@ -140,7 +140,7 @@ clear up the the particle identification process.
 $\Upsilon$ Energy versus $\Upsilon$ Pt 
 --------------------------------------
 
-![image](/OpenData/Upsilon/UE_Upt_log.pdf)
+![image](/OpenData/Upsilon/UE_Upt_log.jpg)
 When first looking at the $\Upsilon$ Energy versus $\Upsilon$ Pt
 distribution one can see that there are a lot of events around the low
 energy, low momentum region. In closer instigation in this region there
@@ -148,8 +148,8 @@ seems to be two bands appearing. The first band follows an arc with a
 slope close to one while the other is a wider and shallower band
 continuing in the low $Pt \approx 5\,GeV$ region.
 
-![image](/OpenData/Upsilon/UE_Upt_log_2.pdf)
-![image](/OpenData/Upsilon/Upt.pdf)
+![image](/OpenData/Upsilon/UE_Upt_log_2.jpg)
+![image](/OpenData/Upsilon/Upt.jpg)
 With higher statistics this could become interesting to use this either
 for background subtraction or to look at the properties of high
 transverse momentum $\Upsilon$ versus low transverse momentum
