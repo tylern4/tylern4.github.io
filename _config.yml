@@ -18,7 +18,7 @@ owner:
   github:   tylern4      
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram: tylern4     
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
@@ -41,6 +41,10 @@ highlighter: pygments
 markdown: redcarpet
 gems:
   - jekyll-sitemap
+  - octopress
+  - jekyll-coffeescript
+  - jekyll-watch
+  - jekyll-assets
 sass:
   sass_dir: _sass
   style: compressed
