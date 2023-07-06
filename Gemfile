@@ -7,4 +7,4 @@ gem 'jekyll-coffeescript'
 gem 'jekyll-watch'
 gem 'jekyll-assets'
 gem 'jemoji'
-gem "nokogiri", ">= 1.13.6"
+gem "nokogiri", ">= 1.11.4"
